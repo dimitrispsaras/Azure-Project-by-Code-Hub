@@ -1,0 +1,77 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
+  <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
+    <mxGraphModel dx="1221" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="A0IHMMy_m380kcZ5GglR-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A0IHMMy_m380kcZ5GglR-12" target="A0IHMMy_m380kcZ5GglR-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="160" />
+              <mxPoint x="710" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A0IHMMy_m380kcZ5GglR-12" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Entra_ID_Protection.svg;" vertex="1" parent="1">
+          <mxGeometry x="676" y="40" width="68" height="60.440000000000005" as="geometry" />
+        </mxCell>
+        <mxCell id="A0IHMMy_m380kcZ5GglR-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A0IHMMy_m380kcZ5GglR-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A0IHMMy_m380kcZ5GglR-13" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="182" width="580" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="A0IHMMy_m380kcZ5GglR-14" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" vertex="1" parent="1">
+          <mxGeometry x="340" y="138.24" width="38" height="35.76" as="geometry" />
+        </mxCell>
+        <mxCell id="A0IHMMy_m380kcZ5GglR-15" value="recource group/ergasia 10&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="378" y="140" width="82" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="A0IHMMy_m380kcZ5GglR-16" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/App_Services.svg;" vertex="1" parent="1">
+          <mxGeometry x="500" y="250" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="A0IHMMy_m380kcZ5GglR-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A0IHMMy_m380kcZ5GglR-17" target="A0IHMMy_m380kcZ5GglR-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A0IHMMy_m380kcZ5GglR-17" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api" vertex="1" parent="1">
+          <mxGeometry x="670" y="240" width="72.91" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="A0IHMMy_m380kcZ5GglR-18" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_MySQL_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="686" y="440" width="48" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="A0IHMMy_m380kcZ5GglR-19" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Azure_Firewall_Manager.svg;" vertex="1" parent="1">
+          <mxGeometry x="648" y="490" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A0IHMMy_m380kcZ5GglR-20" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.box;" vertex="1" parent="1">
+          <mxGeometry x="670" y="630" width="62" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="A0IHMMy_m380kcZ5GglR-21" value="&lt;div&gt;entra id&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="744" y="60" width="82" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="A0IHMMy_m380kcZ5GglR-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="A0IHMMy_m380kcZ5GglR-16" target="A0IHMMy_m380kcZ5GglR-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A0IHMMy_m380kcZ5GglR-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.629;entryY=-0.019;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="A0IHMMy_m380kcZ5GglR-19" target="A0IHMMy_m380kcZ5GglR-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A0IHMMy_m380kcZ5GglR-28" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Cost_Management_and_Billing.svg;" vertex="1" parent="1">
+          <mxGeometry x="576" y="870" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="A0IHMMy_m380kcZ5GglR-29" value="billing and cost" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="589" y="950" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A0IHMMy_m380kcZ5GglR-31" value="Compliance Logs Storage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="652.91" y="710" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A0IHMMy_m380kcZ5GglR-32" value="database" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="744" y="457" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A0IHMMy_m380kcZ5GglR-33" value="app service" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
