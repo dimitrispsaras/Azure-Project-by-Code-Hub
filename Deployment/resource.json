@@ -1,0 +1,10 @@
+{
+    "id": "/subscriptions/e2221b93-114c-42fb-9825-3eaf9eadd2ad/resourceGroups/ergasia",
+    "name": "ergasia",
+    "type": "Microsoft.Resources/resourceGroups",
+    "location": "swedencentral",
+    "tags": {},
+    "properties": {
+        "provisioningState": "Succeeded"
+    }
+}
